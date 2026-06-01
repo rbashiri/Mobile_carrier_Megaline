@@ -90,3 +90,19 @@ Complete the work in a Jupyter notebook:
 - usd_per_minute: cost per extra minute
 - usd_per_message: cost per extra message
 - usd_per_gb: cost per extra GB
+
+## Final Summary (Based on Notebook Results)
+- The Surf plan generated more total revenue in this dataset.
+	- Surf total revenue: $443,771.18
+	- Ultimate total revenue: $119,973.00
+- Usage patterns were similar between plans on average, with small differences in minutes, messages, and data use.
+- Hypothesis test 1 (Surf vs Ultimate revenue):
+	- p-value = 2.3248333100718758e-97
+	- Decision at $\alpha = 0.05$: reject the null hypothesis.
+	- Interpretation: average monthly revenue differs significantly between the two plans.
+- Hypothesis test 2 (NY-NJ vs other regions revenue):
+	- p-value = 0.0046325620587001
+	- Decision at $\alpha = 0.05$: reject the null hypothesis.
+	- Interpretation: average monthly revenue in the NY-NJ area differs significantly from other regions.
+
+Overall, based on this sample and the current analysis pipeline, Surf is the stronger revenue-generating plan for Megaline.
