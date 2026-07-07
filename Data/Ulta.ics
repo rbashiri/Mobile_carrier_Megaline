@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ulta Beauty//NONSGML Appointment//EN
+BEGIN:VEVENT
+UID:f0625a32-10b3-41e5-adbe-3d90db2fd137
+SUMMARY:Appointment at the Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DTSTAMP:20260530T180313Z
+DTSTART:20260530T220000Z
+DTEND:20260530T222000Z
+CATEGORIES:APPOINTMENT
+LOCATION:2068 Dr Martin Luther King Jr Chico\,CA 95928 US
+ 
+  1215 - Chico, CA - Chico Costco Center
+ 
+  +1 530-891-7594
+GEO:39.722068;-121.809406
+DESCRIPTION:Benefit Brow Tweeze by Ruby Estrada\n\nIn order to modify or cancel appointment,
+  please visit your dashboard at the link below: 
+  \nhttps://beautyservices.ulta.com
+URL:https://beautyservices.ulta.com
+END:VEVENT
+END:VCALENDAR

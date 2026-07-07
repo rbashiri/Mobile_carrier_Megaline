@@ -1,0 +1,12 @@
+If this is an EXISTING GitHub repo (already has files/README):
+
+Run:
+git init
+git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git fetch origin
+git checkout -b main
+git pull origin main --allow-unrelated-histories
+Resolve any merge conflicts if prompted, then:
+git add .
+git commit -m "Merge local project with remote"
+git push -u origin main
