@@ -1,4 +1,7 @@
-# Megaline Plan Revenue Analysis
+# Megaline Plan Revenue Analysis and user_behavior modeling
+This project has two sections. First we analyzied Maglaine plan revenue. In the second part of project: Mobile carrier Megaline has found out that many of their subscribers use legacy plans. They want to develop a model that would analyze subscribers' behavior and recommend one of Megaline's newer plans: Smart or Ultra. 
+
+You have access to behavior data about subscribers who have already switched to the new plans (from the project for the Statistical Data Analysis course). For this classification task, you need to develop a model that will pick the right plan. Since you’ve already performed the data preprocessing step, you can move straight to creating the model.  
 
 ## Project Overview
 You are an analyst for Megaline, a telecom operator with two prepaid plans: Surf and Ultimate. The goal is to identify which plan generates more revenue so the marketing team can allocate budget more effectively.
